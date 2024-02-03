@@ -1,0 +1,8 @@
+mqtt_broker_address: 192.168.131.214
+mqtt_broker_port: 1883
+mqtt_data_path: C:/Users/data/mqtt
+mqtt_topic: instrument/measurements/Static.probedBlock->Spindle.tool1
+robot_csv_data_path: C:/Documents/GitHub/tcpip_mqtt_clients/data/tcpip
+tcpip_address: 172.16.49.197
+tcpip_data_path: C:/Documents/GitHub/MQTT_data_logger/data/tcpip
+tcpip_port_number: 5000
